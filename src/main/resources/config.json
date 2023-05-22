@@ -1,0 +1,6 @@
+{
+  "base_url": "https://jsonplaceholder.typicode.com",
+  "post_endpoint": "/posts",
+  "user_endpoint": "/users",
+  "user5": "src/main/resources/user5_data.json"
+}
